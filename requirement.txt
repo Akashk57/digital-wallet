@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pymongo
+bcrypt
+python-jose[cryptography]
+apscheduler
+email-validator
+pydantic[email]
+dnspython
